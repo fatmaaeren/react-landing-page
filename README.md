@@ -1,1 +1,1 @@
-This site was built using [Netlify](effervescent-ganache-072695.netlify.app)
+This site was built using [GitHub Pages](https://pages.github.com/).
